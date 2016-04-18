@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<resource>
+  <object class="wxDialog" name="addSuiteDlg">
+    <object class="wxGridBagSizer">
+      <vgap>4</vgap>
+      <hgap>4</hgap>
+      <object class="sizeritem">
+        <object class="wxStaticText">
+          <label>Please input command information:</label>
+        </object>
+        <option>1</option>
+        <flag>wxALL|wxEXPAND</flag>
+        <border>10</border>
+        <cellpos>0,0</cellpos>
+        <cellspan>1,2</cellspan>
+      </object>
+      <object class="sizeritem">
+        <object class="wxStaticLine"/>
+        <option>1</option>
+        <flag>wxALL|wxEXPAND</flag>
+        <border>0</border>
+        <cellpos>1,0</cellpos>
+        <cellspan>1,2</cellspan>
+      </object>
+      <object class="sizeritem">
+        <object class="wxStaticText">
+          <label>Set ID:</label>
+        </object>
+        <option>1</option>
+        <flag>wxLEFT|wxALIGN_CENTRE_VERTICAL</flag>
+        <border>10</border>
+        <cellpos>2,0</cellpos>
+        <cellspan>1,1</cellspan>
+      </object>
+      <object class="sizeritem">
+        <object class="wxTextCtrl" name="idTxt">
+          <value>24</value>
+          <tooltip>set id</tooltip>
+          <enabled>0</enabled>
+        </object>
+        <option>1</option>
+        <flag>wxALL|wxEXPAND</flag>
+        <border>6</border>
+        <cellpos>2,1</cellpos>
+        <cellspan>1,1</cellspan>
+      </object>
+      <object class="sizeritem">
+        <object class="wxStaticText">
+          <label>Content:</label>
+        </object>
+        <option>1</option>
+        <flag>wxLEFT|wxALIGN_CENTRE_VERTICAL</flag>
+        <border>10</border>
+        <cellpos>3,0</cellpos>
+        <cellspan>1,1</cellspan>
+      </object>
+      <object class="sizeritem">
+        <object class="wxTextCtrl" name="ipTxt">
+          <size>210,-1</size>
+          <tooltip>imput the command?</tooltip>
+        </object>
+        <option>1</option>
+        <flag>wxALL|wxEXPAND</flag>
+        <border>6</border>
+        <cellpos>3,1</cellpos>
+        <cellspan>1,1</cellspan>
+      </object>
+      <object class="sizeritem">
+        <object class="wxStaticLine"/>
+        <option>1</option>
+        <flag>wxALL|wxEXPAND</flag>
+        <border>0</border>
+        <cellpos>4,0</cellpos>
+        <cellspan>1,2</cellspan>
+      </object>
+      <object class="sizeritem">
+        <object class="wxButton" name="okBtn">
+          <label>ok</label>
+        </object>
+        <option>1</option>
+        <flag>wxALL</flag>
+        <border>10</border>
+        <cellpos>5,0</cellpos>
+        <cellspan>1,1</cellspan>
+      </object>
+      <object class="sizeritem">
+        <object class="wxButton" name="cancelBtn">
+          <label>cancel</label>
+        </object>
+        <option>1</option>
+        <flag>wxALL|wxALIGN_RIGHT</flag>
+        <border>10</border>
+        <cellpos>5,1</cellpos>
+        <cellspan>1,1</cellspan>
+      </object>
+    </object>
+    <title>Add Command</title>
+    <centered>1</centered>
+    <icon>pic\icon.ico</icon>
+  </object>
+</resource>

@@ -1,0 +1,23 @@
+INFO :2015-07-22 18:05:26,861:  Client GM Command has been Send!     /hl 1
+INFO :2015-07-22 18:05:31,063:  Client GM Command has been Send!     /hl 0
+INFO :2015-07-22 18:05:35,711:  Server GM Command has been Send!       $go 53 219 200
+INFO :2015-07-22 18:05:44,150:  GM Command has been Send!    $lv 16
+INFO :2015-07-22 18:05:44,153:  GM Command has been Send!    $set p_attack 60000
+INFO :2015-07-22 18:05:44,158:  GM Command has been Send!    $mhp
+INFO :2015-07-22 18:05:44,170:  GM Command has been Send!    /cd
+INFO :2015-07-22 18:05:44,176:  GM Command has been Send!    $go 0 0 0
+INFO :2015-07-22 18:06:02,474:  GM Command has been Send!    $lv 16
+INFO :2015-07-22 18:06:02,476:  GM Command has been Send!    $set p_attack 60000
+INFO :2015-07-22 18:06:02,484:  GM Command has been Send!    $mhp
+INFO :2015-07-22 18:06:02,494:  GM Command has been Send!    /cd
+INFO :2015-07-22 18:06:02,502:  GM Command has been Send!    $go 0 0 0
+INFO :2015-07-22 18:06:51,255:  GM Command has been Send!    $lv 16
+INFO :2015-07-22 18:06:51,257:  GM Command has been Send!    $set p_attack 60000
+INFO :2015-07-22 18:06:51,265:  GM Command has been Send!    $mhp
+INFO :2015-07-22 18:06:51,276:  GM Command has been Send!    /cd
+INFO :2015-07-22 18:06:51,305:  GM Command has been Send!    $go 0 0 0
+INFO :2015-07-22 18:06:56,496:  GM Command has been Send!    $lv 16
+INFO :2015-07-22 18:06:56,499:  GM Command has been Send!    $set p_attack 60000
+INFO :2015-07-22 18:06:56,506:  GM Command has been Send!    $mhp
+INFO :2015-07-22 18:06:56,519:  GM Command has been Send!    /cd
+INFO :2015-07-22 18:06:56,548:  GM Command has been Send!    $go 0 0 0
